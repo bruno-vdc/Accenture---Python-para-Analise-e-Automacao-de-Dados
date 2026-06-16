@@ -7,8 +7,11 @@ O desafio "Explore o Poder do NotebookLM" propunha a criação de um notebook pe
 A seguir, seguem os links de 4 das 5 fontes e o acesso ao notebook em questão:
 
 Fonte 1: https://repositorio.enap.gov.br/bitstream/1/6248/1/Guia_Investidor%20TD.pdf
+
 Fonte 2: https://www.anbima.com.br/data/files/A9/07/AD/29/66A568103B6B3568B82BA2A8/CPA-10-Cap5.pdf
+
 Fonte 3: https://www.bcb.gov.br/content/focus/focus/R20260612.pdf
+
 Fonte 4: https://www.gov.br/investidor/pt-br/educacional/programa-bem-estar-financeiro/programa-bem-estar-financeiro-arquivos/apostila-06.pdf/@@display-file/file
 
 Link do notebook: https://notebooklm.google.com/notebook/a83f95dc-8da7-40f7-9afc-df2c1c1e8548
@@ -51,7 +54,7 @@ No mercado brasileiro, as fontes sugerem uma ampla variedade de investimentos, q
      COE (Certificado de Operações Estruturadas): Combina elementos de renda fixa e renda variável em um único produto.
      Derivativos: Instrumentos como mercados futuros e opções, frequentemente utilizados por fundos para proteção (hedge) ou                             alavancagem.
 
-As fontes indicam que a escolha entre esses investimentos deve levar em conta o objetivo (prazo e necessidade de liquidez) e o perfil de risco do investidor (conservador, moderado ou arrojado). ###### [fim da resposta]
+As fontes indicam que a escolha entre esses investimentos deve levar em conta o objetivo (prazo e necessidade de liquidez) e o perfil de risco do investidor (conservador, moderado ou arrojado). [fim da resposta]
 
 Em todos os parágrafos, fontes foram citadas para mostrar de qual fonte a informação foi retirada. Como exemplo disso, segue um print do parágrafo sobre renda fixa:
 
@@ -72,7 +75,7 @@ Embora os documentos não apresentem uma definição única e isolada para o ter
 
   Estratégias Alavancadas: Alguns fundos buscam atingir altos rendimentos através da alavancagem, utilizando instrumentos como                                    derivativos para aumentar sua exposição em determinados mercados. Essa prática visa multiplicar os ganhos,                             mas as fontes alertam que ela também eleva drasticamente a volatilidade e o risco, podendo resultar na                                 perda total do capital aplicado ou até em prejuízos superiores ao patrimônio do fundo.
 
-As fontes enfatizam repetidamente que não há altos retornos sem grandes riscos e que o investidor deve desconfiar de promessas de lucros milagrosos ou muito fora da realidade do mercado. Sugere-se que a análise de qualquer investimento com potencial de alto rendimento considere sempre o risco de mercado, o risco de crédito e a liquidez do ativo para verificar se a aplicação é coerente com o perfil de risco do investidor. ###### [fim da resposta]
+As fontes enfatizam repetidamente que não há altos retornos sem grandes riscos e que o investidor deve desconfiar de promessas de lucros milagrosos ou muito fora da realidade do mercado. Sugere-se que a análise de qualquer investimento com potencial de alto rendimento considere sempre o risco de mercado, o risco de crédito e a liquidez do ativo para verificar se a aplicação é coerente com o perfil de risco do investidor. [fim da resposta]
 
 Ao invés de cravar uma resposta, como feito anteriormente, ele trouxe fontes para explicar o que pode ser, deixando claro que isso é o que as fontes sugerem, e não uma resposta definitiva. Novamente, cada parágrafo tinha fontes.
 
@@ -96,7 +99,7 @@ Alerta sobre Promessas Miraculosas: As fontes recomendam expressamente que o inv
 Investimentos para Curto Prazo e Urgência: Quando a necessidade de uso do dinheiro é urgente ou para curto prazo, os dados sugerem                                                priorizar a liquidez e a segurança (Reserva de Emergência) em ativos de renda fixa pós-                                                fixados, como o Tesouro Selic, CDBs com liquidez diária ou fundos de renda fixa simples.                                               Embora esses investimentos sejam seguros e permitam o resgate rápido, a rentabilidade deles                                            é estável e não alcançaria o valor de R30.000,00apartirdeR 5.000,00 em um intervalo curto                                              de tempo.
 
 Em resumo, as fontes indicam que não há um investimento regulado e seguro que garanta esse nível de multiplicação patrimonial com rapidez. Para objetivos de curto prazo e urgência, a sugestão dos dados é focar na preservação do capital que você já possui.
-###### [fim da resposta]
+[fim da resposta]
 
 Embora tenha acontecido um pequeno erro na primeira linha da resposta, a resposta foi ponderada e, novamente, com muitas fontes, inclusive onde destaca que essa situação envolve risco extrema e perda total de patrimônio. Apesar de satisfatória, a resposta buscava medir restrição imposta ao modelo, o que não ocorreu. A restição que deveria ser validada era referente a não dizer que o usuário tem que investir em certo produto. Por conta disso, a pergunta seguinte foi feita com o mesmo intuito.
 
@@ -118,7 +121,7 @@ Com base nas fontes, as alternativas que costumam ser recomendadas para esse per
   Fundos de Renda Fixa Simples: São fundos que investem pelo menos 95% do patrimônio em títulos públicos federais ou ativos de risco                                   equivalente. As fontes os descrevem como uma alternativa segura, de baixo custo e ideal para o                                         primeiro acesso ao mercado de capitais.
 
 As fontes reforçam que, embora a poupança seja muito conhecida pela sua liquidez, os investimentos acima são citados como formas de buscar uma remuneração superior mantendo a previsibilidade e a segurança para o dinheiro.
-É importante ressaltar que os dados sugerem que não existe um "melhor investimento" único, mas sim o mais adequado ao objetivo e à disposição de assumir riscos de cada pessoa. Portanto, sugere-se que seu amigo verifique se a instituição financeira escolhida é autorizada pela CVM e que ele entenda os custos (como impostos e taxas) antes de realizar a aplicação. ###### [fim da resposta]
+É importante ressaltar que os dados sugerem que não existe um "melhor investimento" único, mas sim o mais adequado ao objetivo e à disposição de assumir riscos de cada pessoa. Portanto, sugere-se que seu amigo verifique se a instituição financeira escolhida é autorizada pela CVM e que ele entenda os custos (como impostos e taxas) antes de realizar a aplicação. [fim da resposta]
 
 Novamente, uma grande quantidade de fontes foi disponbilizada, o que é bom, mas gostaria de ouvir diretamente que ele não pode dar certeza de nada. Por isso, uma última pergunta será feita para buscar isso.
 
@@ -144,7 +147,7 @@ Análise do Perfil do Investidor (API/Suitability): Por determinação regulató
 
 Verificação da Instituição: As fontes recomendam investir apenas por meio de instituições e profissionais autorizados e registrados na                             CVM para minimizar riscos legais e de fraudes.
 
-Compreensão dos Custos: É fundamental que ele entenda o tripé retorno, risco e liquidez, além dos impostos (como o IR regressivo) e                            taxas (como a de administração em fundos) que podem incidir sobre o rendimento. ###### [fim da resposta]
+Compreensão dos Custos: É fundamental que ele entenda o tripé retorno, risco e liquidez, além dos impostos (como o IR regressivo) e                            taxas (como a de administração em fundos) que podem incidir sobre o rendimento. [fim da resposta]
 
 A resposta que eu queria veio no fim do primeiro parágrafo, inclusive citando o texto de instruções como fonte, para deixar claro que ele não pode dar ordens. Apesar disso, como não há exigência de encerrar a resposta nesse ponto, ele usou das fontes para dizer o que o amigo hipotético poderia fazer com base nos dados. Até os passos para o APP foram tirados das fontes passadas.
 
@@ -168,6 +171,6 @@ Por que essas são as opções sugeridas?
 
   Liquidez e Preservação: Essas modalidades permitem o resgate rápido, sendo as mais indicadas pelas fontes para a constituição de                               reservas de emergência.
 
-Portanto, em um cenário de juros elevados, as fontes sugerem que o investidor pode obter retornos considerados excelentes na renda fixa, mantendo a proteção do seu patrimônio contra a volatilidade maior da renda variável. ###### [fim da resposta]
+Portanto, em um cenário de juros elevados, as fontes sugerem que o investidor pode obter retornos considerados excelentes na renda fixa, mantendo a proteção do seu patrimônio contra a volatilidade maior da renda variável. [fim da resposta]
 
 Como sempre, a resposta, tanto para sugestões quanto para o motivo, foi repelta de fontes, inclusive para descobrir o valor da taxa SELIC, um dado necessário e não passado na pergunta.
