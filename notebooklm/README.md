@@ -16,7 +16,7 @@ Fonte 4: https://www.gov.br/investidor/pt-br/educacional/programa-bem-estar-fina
 
 Link do notebook: https://notebooklm.google.com/notebook/a83f95dc-8da7-40f7-9afc-df2c1c1e8548
 
-Há ainda uma fonte adicional no notebook chamada "Texto colado" na árvore de fontes, tratando-se não de um texto criado apenas para servir de instrução sobre o que deve ser feito, destacando que informações não devem ser inventadas e que devem ser dadas sugestões, não ordens concretas. O texto diz:
+Há ainda uma fonte adicional no notebook chamada "Texto colado" na árvore de fontes, tratando-se de um texto criado apenas para servir de instrução sobre o que deve ser feito, destacando que informações não devem ser inventadas e que devem ser dadas sugestões, não ordens concretas. O texto diz:
 
 "Baseado nas fontes dadas, responda a questões sobre investimentos no Brasil. Busque sempre justificar de onde vem as informações passadas, porém, mesmo com as fontes sendo citadas, não diga nada como 'é isso que você deve fazer com certeza', sempre diga que os dados sugerem algo ao invés de dizer ações imperativas. Caso não tenha a resposta para a pergunta, deixe claro que não é possível responder com suas fontes, jamais invente algo para não deixar o usuário sem respostas."
 
