@@ -60,10 +60,24 @@ def perguntar(msg):
     r = requests.post(url_ollama, json={"model": modelo_ollama, "prompt": prompt, "stream": False})
     return r.json()['response']
 
+if "mensagens" not in st.session_state:
+    st.session_state.mensagens = []
 
 st.title("Assistente Financeiro")
 
+for msg in st.session_state.mensagens:
+    st.chat_message(msg["role"]).write(msg["content"])
+
 if pergunta := st.chat_input("Sua mensagem"):
-    st.chat_message("user").write(pergunta)
-    with st.spinner("..."):
-        st.chat_message("assistant").write(perguntar(pergunta))
+
+    st.session_state.mensagens.append(
+        {"role": "user", "content": pergunta}
+    )
+
+    resposta = perguntar(pergunta)
+
+    st.session_state.mensagens.append(
+        {"role": "assistant", "content": resposta}
+    )
+
+    st.rerun()
