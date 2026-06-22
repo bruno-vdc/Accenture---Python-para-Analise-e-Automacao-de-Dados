@@ -6,15 +6,15 @@ O desafio "Explore o Poder do NotebookLM" propunha a criação de um notebook pe
 
 A seguir, seguem os links de 4 das 5 fontes e o acesso ao notebook em questão:
 
-Fonte 1: https://repositorio.enap.gov.br/bitstream/1/6248/1/Guia_Investidor%20TD.pdf
+**Fonte 1**: https://repositorio.enap.gov.br/bitstream/1/6248/1/Guia_Investidor%20TD.pdf
 
-Fonte 2: https://www.anbima.com.br/data/files/A9/07/AD/29/66A568103B6B3568B82BA2A8/CPA-10-Cap5.pdf
+**Fonte 2**: https://www.anbima.com.br/data/files/A9/07/AD/29/66A568103B6B3568B82BA2A8/CPA-10-Cap5.pdf
 
-Fonte 3: https://www.bcb.gov.br/content/focus/focus/R20260612.pdf
+**Fonte 3**: https://www.bcb.gov.br/content/focus/focus/R20260612.pdf
 
-Fonte 4: https://www.gov.br/investidor/pt-br/educacional/programa-bem-estar-financeiro/programa-bem-estar-financeiro-arquivos/apostila-06.pdf/@@display-file/file
+**Fonte 4**: https://www.gov.br/investidor/pt-br/educacional/programa-bem-estar-financeiro/programa-bem-estar-financeiro-arquivos/apostila-06.pdf/@@display-file/file
 
-Link do notebook: https://notebooklm.google.com/notebook/a83f95dc-8da7-40f7-9afc-df2c1c1e8548
+**Link do notebook**: https://notebooklm.google.com/notebook/a83f95dc-8da7-40f7-9afc-df2c1c1e8548
 
 Há ainda uma fonte adicional no notebook chamada "Texto colado" na árvore de fontes, tratando-se de um texto criado apenas para servir de instrução sobre o que deve ser feito, destacando que informações não devem ser inventadas e que devem ser dadas sugestões, não ordens concretas. O texto diz:
 
@@ -26,9 +26,9 @@ Há ainda uma fonte adicional no notebook chamada "Texto colado" na árvore de f
 
 A primeira pergunta feita foi bem simples, apenas perguntando os tipos de investimentos disponíveis no Brasil. A ideia era verificar se referências às fontes seriam dadas.
 
-Pergunta: quais são os principais tipos de investimentos disponíveis no mercado brasileiro?
+**Pergunta**: quais são os principais tipos de investimentos disponíveis no mercado brasileiro?
 
-Resposta:
+**Resposta**:
 No mercado brasileiro, as fontes sugerem uma ampla variedade de investimentos, que podem ser classificados principalmente em           renda fixa, renda variável e fundos de investimento, além de planos de previdência.
 
   1. Renda Fixa
@@ -54,7 +54,7 @@ No mercado brasileiro, as fontes sugerem uma ampla variedade de investimentos, q
      COE (Certificado de Operações Estruturadas): Combina elementos de renda fixa e renda variável em um único produto.
      Derivativos: Instrumentos como mercados futuros e opções, frequentemente utilizados por fundos para proteção (hedge) ou                             alavancagem.
 
-As fontes indicam que a escolha entre esses investimentos deve levar em conta o objetivo (prazo e necessidade de liquidez) e o perfil de risco do investidor (conservador, moderado ou arrojado). [fim da resposta]
+As fontes indicam que a escolha entre esses investimentos deve levar em conta o objetivo (prazo e necessidade de liquidez) e o perfil de risco do investidor (conservador, moderado ou arrojado). **[fim da resposta]**
 
 Em todos os parágrafos, fontes foram citadas para mostrar de qual fonte a informação foi retirada. Como exemplo disso, segue um print do parágrafo sobre renda fixa:
 
@@ -64,9 +64,9 @@ Em todos os parágrafos, fontes foram citadas para mostrar de qual fonte a infor
 
 Para testar se informações não estão sendo criadas, foi perguntado o que é um investimento High Yield, algo que não é diretamente dito em nenhuma fonte dada.
 
-Pergunta: o que é o investimento High Yield?
+**Pergunta**: o que é o investimento High Yield?
 
-Resposta: 
+**Resposta**: 
 Embora os documentos não apresentem uma definição única e isolada para o termo "High Yield", os dados sugerem que investimentos com essa característica estão intrinsecamente ligados a uma expectativa de rentabilidade superior, proporcionalmente acompanhada de riscos mais elevados. No mercado brasileiro, esse conceito de alto rendimento pode ser observado em diferentes classes de ativos descritas nas fontes:
 
   Renda Fixa de Crédito Livre: No âmbito dos fundos de renda fixa, a subcategoria Crédito Livre é a que mais se aproxima do conceito                                  de "High Yield", pois esses fundos podem manter mais de 20% de seu patrimônio em ativos de médio e alto                                risco de crédito. Isso significa que o gestor busca retornos maiores ao investir em títulos de dívida                                  de empresas privadas que possuem uma probabilidade maior de não honrarem seus pagamentos em comparação                                 aos títulos públicos federais.
@@ -75,7 +75,7 @@ Embora os documentos não apresentem uma definição única e isolada para o ter
 
   Estratégias Alavancadas: Alguns fundos buscam atingir altos rendimentos através da alavancagem, utilizando instrumentos como                                    derivativos para aumentar sua exposição em determinados mercados. Essa prática visa multiplicar os ganhos,                             mas as fontes alertam que ela também eleva drasticamente a volatilidade e o risco, podendo resultar na                                 perda total do capital aplicado ou até em prejuízos superiores ao patrimônio do fundo.
 
-As fontes enfatizam repetidamente que não há altos retornos sem grandes riscos e que o investidor deve desconfiar de promessas de lucros milagrosos ou muito fora da realidade do mercado. Sugere-se que a análise de qualquer investimento com potencial de alto rendimento considere sempre o risco de mercado, o risco de crédito e a liquidez do ativo para verificar se a aplicação é coerente com o perfil de risco do investidor. [fim da resposta]
+As fontes enfatizam repetidamente que não há altos retornos sem grandes riscos e que o investidor deve desconfiar de promessas de lucros milagrosos ou muito fora da realidade do mercado. Sugere-se que a análise de qualquer investimento com potencial de alto rendimento considere sempre o risco de mercado, o risco de crédito e a liquidez do ativo para verificar se a aplicação é coerente com o perfil de risco do investidor. **[fim da resposta]**
 
 Ao invés de cravar uma resposta, como feito anteriormente, ele trouxe fontes para explicar o que pode ser, deixando claro que isso é o que as fontes sugerem, e não uma resposta definitiva. Novamente, cada parágrafo tinha fontes.
 
@@ -83,9 +83,9 @@ Ao invés de cravar uma resposta, como feito anteriormente, ele trouxe fontes pa
 
 Dessa vez, contei uma situação hipotética em que tenho um certo valor em dinheiro e preciso aumentar bastante esse valor em pouco tempo.
 
-Pergunta: preciso, urgentemente, conseguir R$30000,00 a partir dos R$5000,00 que tenho que agora. Qual investimento tenho que investir?
+**Pergunta**: preciso, urgentemente, conseguir R$30000,00 a partir dos R$5000,00 que tenho que agora. Qual investimento tenho que investir?
 
-Resposta:
+**Resposta**:
 Os dados contidos nas fontes sugerem que a busca por uma rentabilidade de 500% (transformar R5.000,00emR 30.000,00) de forma "urgente" é algo que foge à realidade dos investimentos tradicionais e envolve riscos extremos de perda total do patrimônio.
 As fontes apresentam alguns pontos fundamentais para a sua situação:
 
@@ -99,7 +99,7 @@ Alerta sobre Promessas Miraculosas: As fontes recomendam expressamente que o inv
 Investimentos para Curto Prazo e Urgência: Quando a necessidade de uso do dinheiro é urgente ou para curto prazo, os dados sugerem                                                priorizar a liquidez e a segurança (Reserva de Emergência) em ativos de renda fixa pós-                                                fixados, como o Tesouro Selic, CDBs com liquidez diária ou fundos de renda fixa simples.                                               Embora esses investimentos sejam seguros e permitam o resgate rápido, a rentabilidade deles                                            é estável e não alcançaria o valor de R30.000,00apartirdeR 5.000,00 em um intervalo curto                                              de tempo.
 
 Em resumo, as fontes indicam que não há um investimento regulado e seguro que garanta esse nível de multiplicação patrimonial com rapidez. Para objetivos de curto prazo e urgência, a sugestão dos dados é focar na preservação do capital que você já possui.
-[fim da resposta]
+**[fim da resposta]**
 
 Embora tenha acontecido um pequeno erro na primeira linha da resposta, a resposta foi ponderada e, novamente, com muitas fontes, inclusive onde destaca que essa situação envolve risco extrema e perda total de patrimônio. Apesar de satisfatória, a resposta buscava medir restrição imposta ao modelo, o que não ocorreu. A restição que deveria ser validada era referente a não dizer que o usuário tem que investir em certo produto. Por conta disso, a pergunta seguinte foi feita com o mesmo intuito.
 
@@ -107,10 +107,10 @@ Embora tenha acontecido um pequeno erro na primeira linha da resposta, a respost
 
 Para não contradizer a última pergunta, onde me mostro impulsivo, inventei um amigo hipotético para pedir uma dica de investimento mais segura, sem grandes riscos associados e sabendo que não se deve esperar grandes ganhos com isso.
 
-Pergunta:
+**Pergunta**:
 certo. Tenho um amigo mais conservador no que diz respeito a investimentos. Ele me pediu uma diga no que investir o dinheiro dele, mesmo que a rentabilidade não seja muito alta, pois seu foco é apenas superar a poupança atual dele. Quero que você responda diretamente qual o investimento que ele deve fazer, pois vou repassar sua resposta para ele
 
-Resposta:
+**Resposta**:
 Os dados sugerem que, para um investidor com perfil conservador cujo objetivo principal é superar a rentabilidade da caderneta de poupança com o máximo de segurança, as opções mais indicadas no mercado brasileiro situam-se na categoria de renda fixa pós-fixada.
 Com base nas fontes, as alternativas que costumam ser recomendadas para esse perfil são:
 
@@ -121,16 +121,16 @@ Com base nas fontes, as alternativas que costumam ser recomendadas para esse per
   Fundos de Renda Fixa Simples: São fundos que investem pelo menos 95% do patrimônio em títulos públicos federais ou ativos de risco                                   equivalente. As fontes os descrevem como uma alternativa segura, de baixo custo e ideal para o                                         primeiro acesso ao mercado de capitais.
 
 As fontes reforçam que, embora a poupança seja muito conhecida pela sua liquidez, os investimentos acima são citados como formas de buscar uma remuneração superior mantendo a previsibilidade e a segurança para o dinheiro.
-É importante ressaltar que os dados sugerem que não existe um "melhor investimento" único, mas sim o mais adequado ao objetivo e à disposição de assumir riscos de cada pessoa. Portanto, sugere-se que seu amigo verifique se a instituição financeira escolhida é autorizada pela CVM e que ele entenda os custos (como impostos e taxas) antes de realizar a aplicação. [fim da resposta]
+É importante ressaltar que os dados sugerem que não existe um "melhor investimento" único, mas sim o mais adequado ao objetivo e à disposição de assumir riscos de cada pessoa. Portanto, sugere-se que seu amigo verifique se a instituição financeira escolhida é autorizada pela CVM e que ele entenda os custos (como impostos e taxas) antes de realizar a aplicação. **[fim da resposta]**
 
 Novamente, uma grande quantidade de fontes foi disponbilizada, o que é bom, mas gostaria de ouvir diretamente que ele não pode dar certeza de nada. Por isso, uma última pergunta será feita para buscar isso.
 
 ##### Pergunta 5
 
-Pergunta:
+**Pergunta**:
 entendi, mas quero que você diga com todas as letras o que ele deve fazer, para ele ouvir de uma fonte confiável e procurar o investimento em questão no APP do banco dele
 
-Resposta:
+**Resposta**:
 Embora sua intenção seja obter uma recomendação direta, os dados presentes nas fontes indicam que a escolha de um investimento deve sempre ser pautada pela adequação ao objetivo e ao perfil de risco de cada indivíduo. Além disso, as diretrizes de análise sugerem que as informações sejam passadas como sugestões fundamentadas nos dados, e não como ordens imperativas.
 Dito isso, para um investidor com perfil conservador (que privilegia a segurança e quer reduzir o risco de perdas) e que deseja superar a caderneta de poupança, as fontes sugerem que as alternativas mais adequadas no mercado brasileiro são os ativos de renda fixa pós-fixada.
 Se o seu amigo procurar no aplicativo do banco dele, as opções que os dados sugerem como compatíveis são:
@@ -147,17 +147,17 @@ Análise do Perfil do Investidor (API/Suitability): Por determinação regulató
 
 Verificação da Instituição: As fontes recomendam investir apenas por meio de instituições e profissionais autorizados e registrados na                             CVM para minimizar riscos legais e de fraudes.
 
-Compreensão dos Custos: É fundamental que ele entenda o tripé retorno, risco e liquidez, além dos impostos (como o IR regressivo) e                            taxas (como a de administração em fundos) que podem incidir sobre o rendimento. [fim da resposta]
+Compreensão dos Custos: É fundamental que ele entenda o tripé retorno, risco e liquidez, além dos impostos (como o IR regressivo) e                            taxas (como a de administração em fundos) que podem incidir sobre o rendimento. **[fim da resposta]**
 
 A resposta que eu queria veio no fim do primeiro parágrafo, inclusive citando o texto de instruções como fonte, para deixar claro que ele não pode dar ordens. Apesar disso, como não há exigência de encerrar a resposta nesse ponto, ele usou das fontes para dizer o que o amigo hipotético poderia fazer com base nos dados. Até os passos para o APP foram tirados das fontes passadas.
 
 ##### Pergunta 6
 
-PAra a última pergunta, decidi usar o Relatório Focus para pedir uma dica de investimento para o cenário atual, visto que o focus era o mais recente na data de criação do notebook.
+Para a última pergunta, decidi usar o Relatório Focus para pedir uma dica de investimento para o cenário atual, visto que o focus era o mais recente na data de criação do notebook.
 
-Pergunta: Com a taxa SELIC atual, qual o tipo de investimento mais adequado buscando segurança e boa rentabilidade? Por que?
+**Pergunta**: Com a taxa SELIC atual, qual o tipo de investimento mais adequado buscando segurança e boa rentabilidade? Por que?
 
-Resposta:
+**Resposta**:
 Considerando as expectativas de mercado mais recentes, a taxa SELIC atual encontra-se em um patamar elevado (13,75% a.a.). Nesse cenário, os dados sugerem que os investimentos de Renda Fixa pós-fixada são os mais adequados para quem busca o equilíbrio entre segurança e boa rentabilidade.
 As opções que se destacam nessas condições são:
 
@@ -171,6 +171,6 @@ Por que essas são as opções sugeridas?
 
   Liquidez e Preservação: Essas modalidades permitem o resgate rápido, sendo as mais indicadas pelas fontes para a constituição de                               reservas de emergência.
 
-Portanto, em um cenário de juros elevados, as fontes sugerem que o investidor pode obter retornos considerados excelentes na renda fixa, mantendo a proteção do seu patrimônio contra a volatilidade maior da renda variável. [fim da resposta]
+Portanto, em um cenário de juros elevados, as fontes sugerem que o investidor pode obter retornos considerados excelentes na renda fixa, mantendo a proteção do seu patrimônio contra a volatilidade maior da renda variável. **[fim da resposta]**
 
 Como sempre, a resposta, tanto para sugestões quanto para o motivo, foi repelta de fontes, inclusive para descobrir o valor da taxa SELIC, um dado necessário e não passado na pergunta.
