@@ -69,17 +69,13 @@ for msg in st.session_state.mensagens:
     st.chat_message(msg["role"]).write(msg["content"])
 
 if pergunta := st.chat_input("Sua mensagem"):
-
-    # Exibe imediatamente a pergunta
     st.chat_message("user").write(pergunta)
 
-    # Salva no histórico
     st.session_state.mensagens.append(
         {"role": "user", "content": pergunta}
     )
 
     with st.spinner("..."):
-
         resposta = perguntar(pergunta)
 
     # Exibe imediatamente a resposta
