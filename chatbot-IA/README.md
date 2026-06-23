@@ -1,4 +1,4 @@
-# work in progress - Assistente Financeiro
+# Assistente Financeiro
 
 ### Desafio
 
