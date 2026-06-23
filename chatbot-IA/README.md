@@ -19,7 +19,7 @@
 
 ```
 ├── avaliação/                     #teste do aplicativo
-│   ├── README.md                  #prints de conversa para avaliar funcionamento
+│   └── README.md                  #prints de conversa para avaliar funcionamento
 │
 ├── data/                          #base de conhecimento
 │   ├── perfil_investidor.json     #perfil do cliente
@@ -94,6 +94,8 @@ streamlit run app.py
   <img width="1665" height="997" alt="image" src="https://github.com/user-attachments/assets/f13ec3c1-e34b-48c6-8d9d-23801de52b6c" />
   
   `prova de funcionamento do chat`
+
+  Teste de uso do aplicativo em `avaliação/README.md `
 
 ### Sugestões para Melhoria
 
