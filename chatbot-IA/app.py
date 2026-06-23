@@ -78,10 +78,8 @@ if pergunta := st.chat_input("Sua mensagem"):
     with st.spinner("..."):
         resposta = perguntar(pergunta)
 
-    # Exibe imediatamente a resposta
     st.chat_message("assistant").write(resposta)
 
-    # Salva no histórico
     st.session_state.mensagens.append(
         {"role": "assistant", "content": resposta}
     )
