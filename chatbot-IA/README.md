@@ -18,6 +18,9 @@
 ### Estrutura do Projeto
 
 ```
+├── avaliação/                     #teste do aplicativo
+│   ├── README.md                  #prints de conversa para avaliar funcionamento
+│
 ├── data/                          #base de conhecimento
 │   ├── perfil_investidor.json     #perfil do cliente
 │   ├── transacoes.csv             #histórico de transações
@@ -70,7 +73,7 @@ flowchart TD
     D --> F[Resposta]
 ```
 
-#### Como Executar
+### Como Executar
 
   `Lembrete: todos os Requisitos devem ser cumpridos e os downloads necessários devem ter sido feitos`
   
@@ -91,3 +94,8 @@ streamlit run app.py
   <img width="1665" height="997" alt="image" src="https://github.com/user-attachments/assets/f13ec3c1-e34b-48c6-8d9d-23801de52b6c" />
   
   `prova de funcionamento do chat`
+
+### Sugestões para Melhoria
+
+- Aumentar a base de dados: difícil devido à LGPD, mas não impossível;
+- Resposta para qualquer usuário: esse aplicativo parte do princípio que o usuário é o cadastrado nos dados. Essa alteração propõe que ele continue respondendo às perguntas sobre os produtos, porém, para sugerir algo, deve perguntar, educadamente, o nome do usuário. Dessa forma, é feita a consulta do nome no banco de dados. Com retorno positivo, a recomendação é feita, caso contrário, ele diz que não pode ajudar com isso.
