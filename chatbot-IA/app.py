@@ -6,13 +6,13 @@ import streamlit as st
 from pathlib import Path
 
 # ======= diretórios e arquivos =======
-diretorio = Path(__file__).parent
-dir_dados = diretorio / "dados"
+DIRETORIO = Path(__file__).parent
+DIR_DADOS = DIRETORIO / "dados"
 
-perfil = json.load(open(dir_dados / 'perfil_investidor.json'))
-transacoes = pd.read_csv(dir_dados / 'transacoes.csv')
-historico = pd.read_csv(dir_dados / 'historico_atendimento.csv')
-produtos = json.load(open(dir_dados / 'produtos_financeiros.json'))
+perfil = json.load(open(DIR_DADOS / 'perfil_investidor.json'))
+transacoes = pd.read_csv(DIR_DADOS / 'transacoes.csv')
+historico = pd.read_csv(DIR_DADOS / 'historico_atendimento.csv')
+produtos = json.load(open(DIR_DADOS / 'produtos_financeiros.json'))
 
 # ========= interface do chat =========
 url_ollama = "http://localhost:11434/api/generate"
